@@ -1,0 +1,59 @@
+# Hollis
+
+> Hollis is the AI department for hotels: built by hoteliers, working across every system, measured on returns.
+
+Hollis is AI software for hotels, delivered as a department: AI agents that connect a hotel's
+systems (PMS, POS, payments, revenue, sales and CRM, marketing, email, chat and files), learn how
+the property runs, and do the work that falls between those systems. It is for independent hotels,
+hotel brands, management companies and owner groups. Hotels only for now.
+
+## Pages
+- [Home](https://hollishospitality.com/): what Hollis is, the departments it works in, and why it is different
+- [FAQ](https://hollishospitality.com/#faq): questions hotels ask about Hollis
+- [Contact](https://hollishospitality.com/contact): talk to the Hollis team
+
+## FAQ (updated November 2026)
+
+### What is Hollis?
+
+Hollis is the AI department for hotels: a team of AI agents that connects every system a hotel runs, learns how the property works, and does the work that falls between those systems. It was built by hoteliers inside an operating hotel group and is measured on the revenue and hours it returns, not on logins.
+
+### Who is Hollis for?
+
+Hollis is for anyone who owns or runs a hotel: independent hotels, hotel brands, management companies and owner groups. Independent hotels get the back office they could never staff. Hotel brands get their standards carried out at every property, with one live view across the portfolio, whatever systems each hotel runs locally.
+
+### What can Hollis do for my hotel?
+
+Hollis works in every department of a hotel: operations, housekeeping, finance, people, the front office, guest messaging, food and beverage, spa, revenue, marketing and sales. It answers questions about the business, reprices rooms, drafts group and wedding proposals, upgrades guests, audits comps and builds marketing plans. The screens on this site use demo data.
+
+### Which hotel systems does Hollis connect to?
+
+Hollis connects to the systems a hotel already runs: the property management system (PMS), revenue tools, point of sale (POS) for dining and spa, payments, sales and CRM, marketing and advertising, email and team chat, and meeting notes and files. Hollis works with the systems you have, so there is nothing to replace.
+
+### What does agentic AI mean for a hotel?
+
+Hollis uses agentic AI: agents that carry out tasks across a hotel's systems instead of only answering questions. Where a chatbot would tell you a wedding inquiry came in overnight, Hollis checks the dates in the PMS, holds the space and drafts the proposal for your sales team to review in the morning.
+
+### How is Hollis different from the AI built into my PMS or other hotel software?
+
+Hollis is not tied to any one vendor. AI built into a PMS, POS or CRM only sees its own data, but the questions that matter in a hotel span several systems: an arriving guest with no dinner booked, ad spend nobody can tie to a booking, a sales lead going cold while the group block sits somewhere else. Hollis works in those gaps.
+
+### How is Hollis different from ChatGPT, Claude or Copilot?
+
+Hollis knows hotels. General AI assistants know nothing about your property, and someone on staff has to set them up and keep them running. Hollis connects to your hotel's systems, learns how the property runs, and is set up and run by the Hollis team alongside your staff.
+
+### Who sets Hollis up and runs it?
+
+The Hollis team sets Hollis up, runs it alongside your staff and carries what works at one property to the next. Hollis is delivered by people who have run hotels, so your team does not need to become AI specialists to get results.
+
+### How does Hollis measure results?
+
+Hollis is measured on returns, not logins. The Hollis team is accountable for the revenue and efficiencies Hollis delivers: revenue found between systems, hours handed back to staff, and costs caught before they land.
+
+### Does Hollis work for restaurants?
+
+Hollis is built for hotels, including the restaurants, bars, spas and event spaces inside them. Hotel food and beverage teams use Hollis to fill tables with in-house guests and see covers alongside room revenue. Standalone restaurants are not a focus today.
+
+### How do I get started with Hollis?
+
+To get started with Hollis, tell us about your hotel through the contact form: your systems, how many properties you run and the work you would hand to an AI department first. The Hollis team will follow up to talk through where Hollis would start.
