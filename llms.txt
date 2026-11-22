@@ -3,7 +3,7 @@
 > Hollis is the AI department for hotels: built by hoteliers, working across every system, measured on returns.
 
 Hollis is AI software for hotels, delivered as a department: AI agents that connect a hotel's
-systems (PMS, POS, payments, revenue, sales and CRM, marketing, email, chat and files), learn how
+systems (PMS, POS, payments, revenue, sales and CRM, marketing, engineering and maintenance, email, chat and files), learn how
 the property runs, and do the work that falls between those systems. It is for independent hotels,
 hotel brands, management companies and owner groups. Hotels only for now.
 
@@ -28,7 +28,7 @@ Hollis works in every department of a hotel: operations, housekeeping, finance, 
 
 ### Which hotel systems does Hollis connect to?
 
-Hollis connects to the systems a hotel already runs: the property management system (PMS), revenue tools, point of sale (POS) for dining and spa, payments, sales and CRM, marketing and advertising, email and team chat, and meeting notes and files. Hollis works with the systems you have, so there is nothing to replace.
+Hollis connects to the systems a hotel already runs: the property management system (PMS), revenue tools, point of sale (POS) for dining and spa, payments, sales and CRM, marketing and advertising, engineering and maintenance, email and team chat, and meeting notes and files. Hollis works with the systems you have, so there is nothing to replace.
 
 ### What does agentic AI mean for a hotel?
 
